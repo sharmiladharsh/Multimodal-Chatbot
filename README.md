@@ -48,7 +48,7 @@ Salesforce/blip-vqa-base
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/multimodal-chatbot.git
+git clone https://github.com/sharmiladharsh/multimodal-chatbot.git
 cd multimodal-chatbot
 
 2️⃣ Create a virtual environment (optional but recommended)
